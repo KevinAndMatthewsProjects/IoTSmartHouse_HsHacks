@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## IoT SmartHouse
 
-You can use the [editor on GitHub](https://github.com/KevinAndMatthewsHackathonProjects/IoTSmartHouse/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Project for HS Hacks III <br>
+:round_pushpin: 
+Fremont, CA, USA<br>
+:date: 3/25/17-3/26/17
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Inspiration
 
-### Markdown
+After observing my senile grandma's difficulty with controlling lights and other electronics around the house, we decided to create an application that could utilize new technologies such as the Internet of Things and Machine Learning to assist people with these kinds of tasks.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What it does
 
-```markdown
-Syntax highlighted code block
+The user has the ability to control a certain electronic in their home, such as a light or a fan, from their mobile device, using the Internet of Things. The electronic would power on or off, depending on its current state. The user has complete wireless control over the electronics in their home. Based on the user's daily patterns, the application utilizes Machine Learning to automatically and remotely control the electronics.
 
-# Header 1
-## Header 2
-### Header 3
+### How it works
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KevinAndMatthewsHackathonProjects/IoTSmartHouse/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We wired Arduino to create a controllable button and light breadboard. We programmed the breadboard to connect to PubNub and an android mobile device. This was programmed in both java, and Arduino. We then used machine learning to learn and recognize patterns over time.
+#### Roles
+Kevin Palani:
+* Arduino Programming
+* PubNub Server Programming
+* Neural network (Machine Learning)
+* Installing 4 different versions of Java 
+<br>
+Matthew Pham:
+* Arduino Board Wiring
+* Data Analytics for Machine Learning
+* Android Application
+* Sticker Fan :) 
