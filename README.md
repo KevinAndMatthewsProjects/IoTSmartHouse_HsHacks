@@ -16,14 +16,18 @@ The user has the ability to control a certain electronic in their home, such as 
 ### How it works
 
 We wired Arduino to create a controllable button and light breadboard. We programmed the breadboard to connect to PubNub and an android mobile device. This was programmed in both java, and Arduino. We then used machine learning to learn and recognize patterns over time.
-#### Roles
-Kevin Palani:
+<br>
+<br>
+<img src="https://github.com/KevinAndMatthewsProjects/IoTSmartHouse/blob/master/img/iotsmarthouse.png" width="420" height="235">
+
+### Roles
+#### Kevin Palani:
 * Arduino Programming
 * PubNub Server Programming
 * Neural network (Machine Learning)
 * Installing 4 different versions of Java 
 
- Matthew Pham:
+ #### Matthew Pham:
 * Arduino Board Wiring
 * Data Analytics for Machine Learning
 * Android Application
