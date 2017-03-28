@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hshack.smarthouse.MainActivity">
+
+    <android.support.v7.widget.GridLayout
+        android:layout_width="575dp"
+        android:layout_height="509dp"
+        tools:layout_editor_absoluteY="-4dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteX="9dp">
+
+        <Switch
+            android:id="@+id/switch4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_row="12"
+            android:text="Servo"
+            tools:layout_editor_absoluteX="-247dp"
+            tools:layout_editor_absoluteY="39dp" />
+
+        <Switch
+            android:id="@+id/switch2"
+            android:layout_width="101dp"
+            android:layout_height="38dp"
+            android:text="Light Two"
+            tools:layout_editor_absoluteX="143dp"
+            tools:layout_editor_absoluteY="285dp" />
+
+        <Switch
+            android:id="@+id/switch1"
+            android:layout_width="99dp"
+            android:layout_height="44dp"
+            android:text="Light One"
+            tools:layout_editor_absoluteX="35dp"
+            tools:layout_editor_absoluteY="62dp" />
+
+        <Switch
+            android:id="@+id/switch3"
+            android:layout_width="144dp"
+            android:layout_height="46dp"
+            android:layout_column="0"
+            android:layout_row="9"
+            android:text="Automatic Mode"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="116dp" />
+
+    </android.support.v7.widget.GridLayout>
+
+</android.support.constraint.ConstraintLayout>

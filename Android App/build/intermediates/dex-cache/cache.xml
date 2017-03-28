@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.22/a1c83373863cec7ae8d89dc1c5722d8cb6ec0309/slf4j-api-1.7.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1c83373863cec7ae8d89dc1c5722d8cb6ec0309">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.22_604e803babbfa3a0120ed35b70897e503e9c3217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.android/build-cache/7ba9845eb00a4b5420db19c555f521f02c34f80b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/classes_36296a51e86c4a25e2c390bba0fc8a68704a635d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.android/build-cache/67741928fb97c3d49a4b06f1038394ef13b71e6c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/classes_2dddc938f240c6853ba86fb6b0b0358e3c9ca82a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.gradle/caches/modules-2/files-2.1/com.pubnub/pubnub-gson/4.6.0/2a44b53a2dd1d46c16a98539a92abf95c2309c57/pubnub-gson-4.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a44b53a2dd1d46c16a98539a92abf95c2309c57">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/pubnub-gson-4.6.0_7af353db95eed1896815f59a488f2654535a9577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.android/build-cache/bee4c3fff9610a9b4685ae25576e6dd99c12fcc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/classes_6006891106df67899d784adc24b1450f4fd2d797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/gson-2.8.0_a5525b442c60f9778032c0364be782e810d04cba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.android/build-cache/c778875e2cc715bcb96c3140c2b95b7f5c03401e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/classes_e110ca244165c0898868d676a4d791bc718c98f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.6.0_cdde7387e63a26ab66665cd5a5f78615e08113ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.android/build-cache/7b260ed25e938c38aca5275d0ceba27bb41e528d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5d23793df1e17be9a5ca6b9f2046ce27b563060">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/classes_8c5e14303fdba725d5010b55ff34acdd7d3184eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.android/build-cache/0a3c1a1e679e0d0fb66d7807630f7cddb9fee649/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/classes_7778e273b2f778436d168537e7713486b3ac6144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.android/build-cache/58b386433e906cc10474bd907cd84f770408b8d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/classes_2d03fd453f7a38a145ee6f9e0cb7f82bfdc03175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_314dc4b4055ffecf164beb694feafed8ff181dd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_97d18a9cf89d80d47a08f93764578ae1519921a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.android/build-cache/002fd9ac96edd218b9db2dd8298c1236a429cba9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/classes_e7a1f504c9c46063e2a2925900296e7eec8a4cfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.android/build-cache/dddf24402fc11deed2d0515d9c8aa1c6f8d7ace1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/classes_be4f3ce450d02493476dca709d70ebcfb6b22449.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_fd15e6e6812a7f5f347607d02ea9e687ad33a933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.android/build-cache/19ff85accbe2ab2a9b204ed462e0b9dff000f515/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/classes_deb8699425135d49944c6bec32fdca38c1057402.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_32ff4373cda6d4f3416d927da43f17d8b37b4133.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_83af015429e766ee747ac775e3b6b08730073ed5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/okio-1.11.0_aa4eef6e7dc5bf30cb5b2fd01bbeb316d3dc80f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hshack/.android/build-cache/ba425e79870a58b2e2a799c5dedafaadae6a521c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/hshack/Desktop/SmartHouse/app/build/intermediates/pre-dexed/debug/classes_eb228c7da78bf271687d98626eb8a325a4b7dfc6.jar" />
+    </item>
+
+</items>

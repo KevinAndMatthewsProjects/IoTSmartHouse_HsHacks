@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/hshack/Desktop/SmartHouse/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/hshack/.android/build-cache/002fd9ac96edd218b9db2dd8298c1236a429cba9/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/hshack/Desktop/SmartHouse/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/hshack/.android/build-cache/002fd9ac96edd218b9db2dd8298c1236a429cba9/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/hshack/Desktop/SmartHouse/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/hshack/.android/build-cache/002fd9ac96edd218b9db2dd8298c1236a429cba9/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/hshack/Desktop/SmartHouse/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/hshack/.android/build-cache/002fd9ac96edd218b9db2dd8298c1236a429cba9/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

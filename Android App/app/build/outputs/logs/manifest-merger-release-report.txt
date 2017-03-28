@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/hshack/.android/build-cache/002fd9ac96edd218b9db2dd8298c1236a429cba9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/hshack/.android/build-cache/dddf24402fc11deed2d0515d9c8aa1c6f8d7ace1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/hshack/.android/build-cache/c778875e2cc715bcb96c3140c2b95b7f5c03401e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/hshack/.android/build-cache/7ba9845eb00a4b5420db19c555f521f02c34f80b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/hshack/.android/build-cache/bee4c3fff9610a9b4685ae25576e6dd99c12fcc2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/hshack/.android/build-cache/58b386433e906cc10474bd907cd84f770408b8d1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/hshack/.android/build-cache/67741928fb97c3d49a4b06f1038394ef13b71e6c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hshack/.android/build-cache/19ff85accbe2ab2a9b204ed462e0b9dff000f515/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:gridlayout-v7:25.3.0] /Users/hshack/.android/build-cache/7b260ed25e938c38aca5275d0ceba27bb41e528d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/hshack/.android/build-cache/ba425e79870a58b2e2a799c5dedafaadae6a521c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/hshack/.android/build-cache/0a3c1a1e679e0d0fb66d7807630f7cddb9fee649/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.hshack.smarthouse.MainActivity
+ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:16:27-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:21:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml:22:22-76
+uses-sdk
+INJECTED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/hshack/.android/build-cache/002fd9ac96edd218b9db2dd8298c1236a429cba9/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] /Users/hshack/.android/build-cache/dddf24402fc11deed2d0515d9c8aa1c6f8d7ace1/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/hshack/.android/build-cache/c778875e2cc715bcb96c3140c2b95b7f5c03401e/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/hshack/.android/build-cache/7ba9845eb00a4b5420db19c555f521f02c34f80b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/hshack/.android/build-cache/bee4c3fff9610a9b4685ae25576e6dd99c12fcc2/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/hshack/.android/build-cache/58b386433e906cc10474bd907cd84f770408b8d1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/hshack/.android/build-cache/67741928fb97c3d49a4b06f1038394ef13b71e6c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hshack/.android/build-cache/19ff85accbe2ab2a9b204ed462e0b9dff000f515/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:gridlayout-v7:25.3.0] /Users/hshack/.android/build-cache/7b260ed25e938c38aca5275d0ceba27bb41e528d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/hshack/.android/build-cache/ba425e79870a58b2e2a799c5dedafaadae6a521c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /Users/hshack/.android/build-cache/0a3c1a1e679e0d0fb66d7807630f7cddb9fee649/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/hshack/.android/build-cache/002fd9ac96edd218b9db2dd8298c1236a429cba9/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hshack/Desktop/SmartHouse/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/hshack/.android/build-cache/002fd9ac96edd218b9db2dd8298c1236a429cba9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/hshack/.android/build-cache/dddf24402fc11deed2d0515d9c8aa1c6f8d7ace1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/hshack/.android/build-cache/c778875e2cc715bcb96c3140c2b95b7f5c03401e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/hshack/.android/build-cache/7ba9845eb00a4b5420db19c555f521f02c34f80b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/hshack/.android/build-cache/bee4c3fff9610a9b4685ae25576e6dd99c12fcc2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/hshack/.android/build-cache/58b386433e906cc10474bd907cd84f770408b8d1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/hshack/.android/build-cache/67741928fb97c3d49a4b06f1038394ef13b71e6c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:gridlayout-v7:25.3.0] /Users/hshack/.android/build-cache/7b260ed25e938c38aca5275d0ceba27bb41e528d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/hshack/.android/build-cache/ba425e79870a58b2e2a799c5dedafaadae6a521c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/hshack/.android/build-cache/0a3c1a1e679e0d0fb66d7807630f7cddb9fee649/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/hshack/.android/build-cache/002fd9ac96edd218b9db2dd8298c1236a429cba9/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/hshack/.android/build-cache/002fd9ac96edd218b9db2dd8298c1236a429cba9/output/AndroidManifest.xml:26:9-47

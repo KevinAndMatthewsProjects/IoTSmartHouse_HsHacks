@@ -1,0 +1,8 @@
+2.93b is Mainly maintainance release an it provides:
+
+- Some DataSet API improvements (implements List interface, serialization implementation, split method)
+- Support for column names in data sets (importing column names from CSV, dataset visualization for selected columns)
+- Bug fixes: Perceptron network, Basic Neuron sample, Perceptron Learning Sample, 
+- Improved MLP Classification sample visualisation
+- Source code cleanup
+- Added missing jars for slf4j

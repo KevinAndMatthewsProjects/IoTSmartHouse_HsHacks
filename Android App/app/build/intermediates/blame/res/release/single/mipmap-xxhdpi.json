@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hshack/Desktop/SmartHouse/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/hshack/Desktop/SmartHouse/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hshack/Desktop/SmartHouse/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/hshack/Desktop/SmartHouse/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
