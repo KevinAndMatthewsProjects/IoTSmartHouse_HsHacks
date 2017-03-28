@@ -22,8 +22,8 @@ Kevin Palani:
 * PubNub Server Programming
 * Neural network (Machine Learning)
 * Installing 4 different versions of Java 
-<br>
-Matthew Pham:
+
+ Matthew Pham:
 * Arduino Board Wiring
 * Data Analytics for Machine Learning
 * Android Application
