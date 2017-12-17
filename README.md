@@ -7,7 +7,7 @@ Fremont, CA, USA<br>
 
 ### Inspiration
 
-After observing my senile grandma's difficulty with controlling lights and other electronics around the house, we decided to create an application that could utilize new technologies such as the Internet of Things and Machine Learning to assist people with these kinds of tasks.
+After observing my grandma's difficulty with controlling lights and other electronics around the house, we decided to create an application that could utilize new technologies such as the Internet of Things and Machine Learning to assist people with these kinds of tasks.
 
 ### What it does
 
