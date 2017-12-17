@@ -32,3 +32,6 @@ The android app has many switches on it, which correspond to the electronics wir
 * Arduino Board Wiring
 * Data Analytics for Machine Learning
 * Android Application
+* Sending/Receiving messages from phone to Arduino
+
+
