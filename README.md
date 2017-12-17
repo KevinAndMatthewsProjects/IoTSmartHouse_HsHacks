@@ -21,8 +21,10 @@ The android app has many switches on it, which correspond to the electronics wir
 <!--<img src="https://github.com/KevinAndMatthewsProjects/IoTSmartHouse_HsHacks/tree/master/img/iotsmarthouse.png" width="420" height="235">-->
 <br>
 <br>
+
 <a href="http://imgur.com/2YIALEO">Demo</a>
 <br>
+
 ### Roles
 #### Kevin Palani:
 * Arduino Programming
