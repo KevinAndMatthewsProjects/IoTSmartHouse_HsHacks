@@ -22,15 +22,14 @@ The android app has many switches on it, which correspond to the electronics wir
 <br>
 <br>
 <a href="http://imgur.com/2YIALEO">Demo</a>
+<br>
 ### Roles
 #### Kevin Palani:
 * Arduino Programming
 * PubNub Server Programming
 * Neural network (Machine Learning)
-* Installing 4 different versions of Java 
 
  #### Matthew Pham:
 * Arduino Board Wiring
 * Data Analytics for Machine Learning
 * Android Application
-* Sticker Fan :) 
